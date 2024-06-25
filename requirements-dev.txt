@@ -1,0 +1,14 @@
+
+# -- Base
+matplotlib
+toml
+
+# -- Machine Learning
+numpy
+torch
+torchvision
+scikit-image
+
+# -- Integraciones financieras
+yfinance
+
